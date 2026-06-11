@@ -1,0 +1,51 @@
+OBJECTID,code,type_tematik,nama,X,Y,alamat
+1,3300,muslim,Masjid Nurul Jariyah,114.79876708984375,-3.449845552444458,Jl. Nurul Jariyah, Banjarbaru
+2,3300,muslim,Masjid Nur Rahman,114.76610565185547,-3.4363322257995605,Jl. Nur Rahman, Banjarbaru
+3,3300,muslim,Masjid Quba,114.80956268310547,-3.430551052093506,Jl. Quba, Banjarbaru
+4,3300,muslim,Masjid Syi'arusshalihin,114.85054016113281,-3.4235177040100098,Jl. Syi'arusshalihin, Martapura
+5,3301,muslim,Masjid Al-Baythar,114.8443832397461,-3.445939064025879,Jl. Al-Baythar, Banjarbaru
+6,3300,muslim,Masjid Darul Hasanah,114.73895263671875,-3.56109619140625,Jl. Darul Hasanah, Banjarbaru
+7,3300,muslim,Langgar Darul Abidin,114.62737274169922,-3.4785685539245605,Jl. Darul Abidin, Gambut
+8,3300,muslim,Masjid Nurul Iman,114.66494750976562,-3.375720500946045,Jl. Nurul Iman, Gambut
+9,3300,muslim,Masjid Jami' Hidayatul Muhajirin,114.83138275146484,-3.4460089206695557,Jl. Jami Hidayatul Muhajirin, Banjarbaru
+10,3300,muslim,Langgar Darul Aman,114.6239242553711,-3.4473259449005127,Jl. Darul Aman, Gambut
+11,3300,muslim,Masjid Mujahidin,114.66925048828125,-3.406874179840088,Jl. Mujahidin, Gambut
+12,3300,muslim,Langgar,114.62979125976562,-3.573101043701172,Jl. Langgar, Gambut
+13,3300,muslim,Masjid An-Nur,114.84603881835938,-3.396515369415283,Jl. An-Nur, Martapura
+14,3300,muslim,Musholla Darul Faizin,114.85000610351562,-3.40478777885437,Jl. Darul Faizin, Martapura
+15,3300,muslim,Masjid Miftahul Khairat,114.80366516113281,-3.4480655193328857,Jl. Miftahul Khairat, Banjarbaru
+16,3300,muslim,Musala,114.83221435546875,-3.4445767402648926,Jl. Musala, Banjarbaru
+17,3300,muslim,Langgar Al-Mujahiddin,114.83905792236328,-3.4468796253204346,Jl. Al-Mujahiddin, Banjarbaru
+18,3107,christian_protestant,GPIB Effatha,114.80142211914062,-3.449247360229492,Jl. GPIB Effatha, Banjarbaru
+19,3300,muslim,Masjid At-Taqwa,114.60720825195312,-3.461719512939453,Jl. At-Taqwa, Gambut
+20,3300,muslim,Langgar Nurul Yaqin,114.85185241699219,-3.4800968170166016,Jl. Nurul Yaqin, Martapura
+21,3300,muslim,Langgar,114.63011932373047,-3.567654848098755,Jl. Langgar, Gambut
+22,3300,muslim,Musholla Al-Hidayah,114.83060455322266,-3.4419615268707275,Jl. Al-Hidayah, Banjarbaru
+23,3300,muslim,Langgar Darul Falihin,114.62840270996094,-3.3990895748138428,Jl. Darul Falihin, Gambut
+24,3300,muslim,Musholla Ar-Raudhah Sekumpul,114.8553466796875,-3.4278807640075684,Jl. Ar-Raudhah Sekumpul, Martapura
+25,3300,muslim,Masjid Agung Al Munawwarah,114.82431030273438,-3.4613447189331055,Jl. Al Munawwarah, Banjarbaru
+26,3301,muslim,Majelis Khairul Bariyah,114.6583023071289,-3.3799960613250732,Jl. Khairul Bariyah, Gambut
+27,3300,muslim,Masjid Nurul Hadi,114.65147399902344,-3.3833017349243164,Jl. Nurul Hadi, Gambut
+28,3301,muslim,Masjid Syarifah Shalihah,114.84574890136719,-3.433100938796997,Jl. Syarifah Shalihah, Banjarbaru
+29,3300,muslim,Musholla Al-Badii' Pesona Gading Indah,114.84989166259766,-3.4570472240448,Jl. Al-Badii, Banjarbaru
+30,3300,muslim,Langgar Al-Jihad,114.66773986816406,-3.3698318004608154,Jl. Al-Jihad, Gambut
+31,3301,muslim,Kanzul Khairat,114.83860778808594,-3.438817262649536,Jl. Kanzul Khairat, Banjarbaru
+32,3300,muslim,Langgar Abna Ath-Tholibin,114.83927154541016,-3.4453864097595215,Jl. Abna Ath-Tholibin, Banjarbaru
+33,3301,muslim,Masjid At Taqwa,114.66065979003906,-3.3951432704925537,Jl. At Taqwa, Gambut
+34,3300,muslim,Langgar Darul Aman,114.60749816894531,-3.468430995941162,Jl. Darul Aman, Gambut
+35,3301,muslim,Masjid Agung Al-Karomah,114.84854125976562,-3.4049673080444336,Jl. Al-Karomah, Martapura
+36,3300,muslim,Masjid Bani Al-Ahdal,114.85653686523438,-3.4380712509155273,Jl. Bani Al-Ahdal, Martapura
+37,3300,muslim,Masjid Al-Istiqomah,114.8233871459961,-3.4431657791137695,Jl. Al-Istiqomah, Banjarbaru
+38,3300,muslim,Langgar An-Nur,114.84691619873047,-3.431628704071045,Jl. An-Nur, Martapura
+39,3300,muslim,Langgar,114.61575317382812,-3.5544679164886475,Jl. Langgar, Gambut
+40,3300,muslim,Musholla,114.55830383300781,-3.5547995567321777,Jl. Musholla, Gambut
+41,3300,muslim,Darul Ihsan,114.65007781982422,-3.3812074661254883,Jl. Darul Ihsan, Gambut
+42,3300,muslim,Masjid Sirajul Munir,114.60347747802734,-3.4722909927368164,Jl. Sirajul Munir, Gambut
+43,3300,muslim,Masjid As-Salam,114.61157989501953,-3.485657215118408,Jl. As-Salam, Gambut
+44,3300,muslim,Masjid Baiturrahman,114.83917999267578,-3.4524078369140625,Jl. Baiturrahman, Banjarbaru
+45,3300,muslim,Musholla Nur Ilma Mandiri FT ULM,114.84082794189453,-3.444758892059326,Jl. Nur Ilma Mandiri FT ULM, Banjarbaru
+46,3300,muslim,Langgar Al-Istiqomah,114.84909057617188,-3.42667818069458,Jl. Al-Istiqomah, Martapura
+47,3300,muslim,Baitul Ma'mur,114.7271728515625,-3.4236087799072266,Jl. Baitul Ma'mur, Banjarbaru
+48,3301,muslim,Masjid Muhammad Arsyad Al Banjari,114.6988296508789,-3.4306137561798096,Jl. Muhammad Arsyad Al Banjari, Banjarbaru
+49,3103,christian_evangelical,GKE Banjarbaru,114.83473205566406,-3.4468588829040527,Jl. GKE Banjarbaru, Banjarbaru
+50,3100,christian,GPdI,114.83431243896484,-3.446812391281128,Jl. GPdI, Banjarbaru
